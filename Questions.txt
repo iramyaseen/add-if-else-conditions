@@ -1,0 +1,15 @@
+1:Write a JavaScript program to display the current day and time in the following format.
+Sample Output : Today is : Tuesday.
+Current time is : 10 PM : 30 : 38
+
+
+2:Write a JavaScript program to calculate multiplication and division of two numbers (input from user)
+
+
+3:how to push data in array?
+
+
+4:how to push data in object:
+
+
+5:how to push data in Array of object?
